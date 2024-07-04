@@ -1,0 +1,9 @@
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\bin\Release\TestAPI_DAC.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\bin\Release\TestAPI_DAC.pdb
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\bin\Release\TestAPI_DTO.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\bin\Release\TestAPI_DTO.pdb
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\obj\Release\TestAPI_DAC.csproj.AssemblyReference.cache
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\obj\Release\TestAPI_DAC.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\obj\Release\TestAPI_DAC.csproj.CopyComplete
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\obj\Release\TestAPI_DAC.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DAC\obj\Release\TestAPI_DAC.pdb

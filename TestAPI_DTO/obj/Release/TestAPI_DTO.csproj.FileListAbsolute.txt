@@ -1,0 +1,5 @@
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\bin\Release\TestAPI_DTO.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\bin\Release\TestAPI_DTO.pdb
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\obj\Release\TestAPI_DTO.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\obj\Release\TestAPI_DTO.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\obj\Release\TestAPI_DTO.pdb

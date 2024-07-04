@@ -1,0 +1,11 @@
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\bin\Debug\TestAPI_DTO.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\bin\Debug\TestAPI_DTO.pdb
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\obj\Debug\TestAPI_DTO.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\obj\Debug\TestAPI_DTO.dll
+D:\Desktop\Personal project-C#\TestAPI\TestAPI_DTO\obj\Debug\TestAPI_DTO.pdb
+D:\Personal project-C#\TestAPI\TestAPI git\TestAPI_DTO\bin\Debug\TestAPI_DTO.dll
+D:\Personal project-C#\TestAPI\TestAPI git\TestAPI_DTO\bin\Debug\TestAPI_DTO.pdb
+D:\Personal project-C#\TestAPI\TestAPI git\TestAPI_DTO\obj\Debug\TestAPI_DTO.csproj.AssemblyReference.cache
+D:\Personal project-C#\TestAPI\TestAPI git\TestAPI_DTO\obj\Debug\TestAPI_DTO.csproj.CoreCompileInputs.cache
+D:\Personal project-C#\TestAPI\TestAPI git\TestAPI_DTO\obj\Debug\TestAPI_DTO.dll
+D:\Personal project-C#\TestAPI\TestAPI git\TestAPI_DTO\obj\Debug\TestAPI_DTO.pdb
